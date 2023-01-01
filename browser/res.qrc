@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/108788_442b0e333f99240f9c4ae74116a137fb85539_cb865765c67872fc0131b2752263f709w0jct9XEnI.jpg</file>
+    <file>icon/iconfinder_about_2639759.png</file>
+    <file>icon/iconfinder_General_Office_65_2530844.png</file>
+    <file>icon/iconfinder_home_216242.png</file>
+    <file>icon/iconfinder_icons_arrow_1564492.png</file>
+    <file>icon/iconfinder_icons_update_1564533.png</file>
+    <file>icon/iconfinder_search_322497.png</file>
+    <file>icon/iconfinder_Sed-01_2542754.png</file>
+  </qresource>
+</RCC>
